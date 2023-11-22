@@ -1,0 +1,6 @@
+@TariqWebApi_HostAddress = http://localhost:5192
+
+GET {{TariqWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
